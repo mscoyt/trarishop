@@ -1,0 +1,75 @@
+body {
+	margin:0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.logo {
+  font-size: 15px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 10;
+  background: #354662;
+  color: #fff;
+  border: 3px;
+}
+
+a{
+  margin-right: px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.re{
+  text-transform: uppercase;
+  display: inline-block;
+	vertical-align: top;
+	margin: 0 15px;
+	position: relative;
+	color: #fff;
+	text-decoration: none;
+}
+
+.rey{
+  font-size: 15px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 10;
+  background: #354662;
+  color: #fff;
+  border: 3px;
+
+}
+.r{
+  text-transform: uppercase;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 15px;
+  position: relative;
+  color: #fff;
+  text-decoration: none;
+  left: 550px;
+}
+.u{
+	text-transform: uppercase;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 15px;
+	position: relative;
+	color: #fff;
+	text-decoration: none;
+	left: 1000px;
+}
+
+.есть{
+	color: green;
+	margin: 0;
+}
+
+.нет{
+	color: red;
+	margin: 0;
+}
+
+.second{
+text-align: center;
+}
